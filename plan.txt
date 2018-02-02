@@ -1,0 +1,3 @@
+plan01:Linux,Apache
+plan02:mysql,php
+pran03:wordpress
