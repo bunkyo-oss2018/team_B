@@ -1,2 +1,19 @@
-Ubuntu,Apache,MariaDB,PHP,�����̂��ɁAcomposer���C���X�g�[�����āA
-PHP�t���[�����[�N��laravel�J�������\�z
+〆計画
+Ubuntu,Apache,MariaDB,PHP,したのちに、composerをインストールして、
+PHPフレームワークのlaravel開発環境を構築
+
+〆環境
+Centos7 php7.0 mariadb5.5 apache 2.4 composer1.6.3
+
+〆結論
+
+ip 172.20.22.63
+
+流れなどはplan1とほとんど同じ。
+
+LAMPをインストールした後はcomposer,Laravelをインストール。
+
+〆考察
+自分自身できないことが多すぎて班員に助けてもらってばかりだった。
+もう少しできるようになりたいと思ったのと構築することがこんなに
+難しいと思っていなかったのでいい機会だった。
