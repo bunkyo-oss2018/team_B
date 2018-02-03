@@ -1,5 +1,9 @@
-CentOS7,Apache,MariaDB,PHP,したのちに、wordpressをインストール
+CentOS 7.4
+Apache 2.4
+MariaDB 10.2
+PHP 7.1
 
+wordpress 4.9.2
 
 そこにCentOSがあったから
 
