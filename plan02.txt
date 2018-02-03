@@ -18,3 +18,6 @@ LAMPをインストールした後はcomposer,Laravelをインストール。
 もう少しできるようになりたいと思ったのと構築することがこんなに
 難しいと思っていなかったのでいい機会だった。
 
+〆参考
+https://qiita.com/tosite0345/items/1e5bbeb33508abb1eaae
+https://qiita.com/Syo_pr/items/4994f71e8c9152ceee0d
