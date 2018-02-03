@@ -3,7 +3,7 @@ Ubuntu,Apache,MariaDB,PHP,したのちに、composerをインストールして�
 PHPフレームワークのlaravel開発環境を構築
 
 〆環境
-Centos7 php7.0 mariadb5.5 apache 2.4 composer1.6.3 Laravel5.5
+Centos7.4 php7.1 mariadb10.2 apache 2.4 composer1.6.3 Laravel5.5
 
 〆結論
 
