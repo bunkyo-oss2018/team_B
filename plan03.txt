@@ -1,1 +1,2 @@
-wordpressをダウンロードする
+Ubuntu,Apache,MariaDB,PHP,したのちに、composerをインストールして、
+PHPフレームワークのcakePHP開発環境を作成

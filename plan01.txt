@@ -1,1 +1,1 @@
-VMweweにLinux(centos),Apacheをインストール
+Ubuntu,Apache,MariaDB,PHP,したのちに、wordpressをインストール
