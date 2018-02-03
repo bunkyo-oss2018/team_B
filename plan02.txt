@@ -3,7 +3,7 @@ Ubuntu,Apache,MariaDB,PHP,したのちに、composerをインストールして�
 PHPフレームワークのlaravel開発環境を構築
 
 〆環境
-Centos7 php7.0 mariadb5.5 apache 2.4 composer1.6.3
+Centos7 php7.0 mariadb5.5 apache 2.4 composer1.6.3 Laravel5.5
 
 〆結論
 
@@ -11,7 +11,7 @@ ip 172.20.22.63
 
 流れなどはplan1とほとんど同じ。
 
-LAMPをインストールした後はcomposer,Laravelをインストール。
+phpまでインストールした後はcomposer,Laravelをインストール。
 
 〆考察
 自分自身できないことが多すぎて班員に助けてもらってばかりだった。
